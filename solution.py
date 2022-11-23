@@ -17,7 +17,7 @@ for line in Lines:
 
     for i in a:
 
-        if input_numara == i
+        if str(input_numara) == i
 
             # Verilen numaralı satıra ulaşıldı. Bu satırı silebilirsin
 
